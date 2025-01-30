@@ -76,12 +76,6 @@ This project is **not under any license** and is created solely for academic pur
 
 ---
 
-## ⭐ Project Link
-
-Find the repository here: [https://github.com/demit-dev/demit](#)
-
----
-
 ## 🙏 Acknowledgments
 
 - 🎭 **Indonesian Folklore** for inspiring the game’s world and characters.
