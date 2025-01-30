@@ -41,7 +41,7 @@ Stay updated with the latest news, development progress, and exclusive content:
 
 - 📢 **Discord**: [Join here](#)
 - 🐦 **Twitter**: [Follow us](#)
-- 🌍 **Website**: [Visit here](#)
+- 🌍 **Website**: [Visit here](https://game-demit.vercel.app)
 
 ---
 
