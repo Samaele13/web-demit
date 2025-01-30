@@ -1,47 +1,89 @@
-# Svelte + Vite
+# 🎭 Demit
 
-This template should help get you started developing with Svelte in Vite.
+**Demit** is an atmospheric action-adventure game inspired by Indonesian folklore. Battle legendary spirits, uncover hidden secrets, and survive terrifying encounters in a world rich with mystery and danger.
 
-## Recommended IDE Setup
+---
 
-[VS Code](https://code.visualstudio.com/) + [Svelte](https://marketplace.visualstudio.com/items?itemName=svelte.svelte-vscode).
+## 🔥 Features
 
-## Need an official Svelte framework?
+- 🏚️ **Explore Haunted Dungeons** – Venture through eerie, hand-crafted dungeons filled with puzzles, traps, and hidden treasures.
+- 👻 **Battle Legendary Spirits** – Face mythical Indonesian entities like Tuyul, Kunti, and Genderuwo.
+- ⚔️ **Epic Boss Fight** – Confront the powerful Nyi Roro Kidul in an intense, final battle.
+- 📜 **Immersive Storytelling** – Unravel deep lore inspired by Indonesia’s rich supernatural legends.
+- 🎮 **Co-op Multiplayer** – Team up with friends to uncover secrets and take down formidable enemies together.
+- 🔄 **Dynamic Combat System** – Master fast-paced, strategic combat against a variety of supernatural foes.
+- 🎼 **Stunning Visuals & Sound** – Experience haunting environments and an immersive soundtrack that brings the world of **Demit** to life.
 
-Check out [SvelteKit](https://github.com/sveltejs/kit#readme), which is also powered by Vite. Deploy anywhere with its serverless-first approach and adapt to various platforms, with out of the box support for TypeScript, SCSS, and Less, and easily-added support for mdsvex, GraphQL, PostCSS, Tailwind CSS, and more.
+---
 
-## Technical considerations
+## 🎮 How to Play
 
-**Why use this over SvelteKit?**
+1. **Explore** – Navigate through forests, abandoned villages, and hidden temples, each with unique challenges.
+2. **Battle** – Use weapons, spells, and strategy to fight spirits from Indonesian mythology.
+3. **Solve Puzzles** – Uncover ancient secrets hidden throughout the world.
+4. **Upgrade** – Gain new abilities, weapons, and relics to help you on your journey.
 
-- It brings its own routing solution which might not be preferable for some users.
-- It is first and foremost a framework that just happens to use Vite under the hood, not a Vite app.
+---
 
-This template contains as little as possible to get started with Vite + Svelte, while taking into account the developer experience with regards to HMR and intellisense. It demonstrates capabilities on par with the other `create-vite` templates and is a good starting point for beginners dipping their toes into a Vite + Svelte project.
+## 🖥️ System Requirements
 
-Should you later need the extended capabilities and extensibility provided by SvelteKit, the template has been structured similarly to SvelteKit so that it is easy to migrate.
+- **OS:** Windows 10 / macOS / Linux
+- **Processor:** Intel i5 / AMD Ryzen 5 or higher
+- **Memory:** 8GB RAM
+- **Graphics:** GTX 1050 / Radeon RX 560 or higher
+- **Storage:** 10GB available space
 
-**Why `global.d.ts` instead of `compilerOptions.types` inside `jsconfig.json` or `tsconfig.json`?**
+---
 
-Setting `compilerOptions.types` shuts out all other types not explicitly listed in the configuration. Using triple-slash references keeps the default TypeScript setting of accepting type information from the entire workspace, while also adding `svelte` and `vite/client` type information.
+## 🌎 Community & Support
 
-**Why include `.vscode/extensions.json`?**
+Stay updated with the latest news, development progress, and exclusive content:
 
-Other templates indirectly recommend extensions via the README, but this file allows VS Code to prompt the user to install the recommended extension upon opening the project.
+- 📢 **Discord**: [Join here](#)
+- 🐦 **Twitter**: [Follow us](#)
+- 🌍 **Website**: [Visit here](#)
 
-**Why enable `checkJs` in the JS template?**
+---
 
-It is likely that most cases of changing variable types in runtime are likely to be accidental, rather than deliberate. This provides advanced typechecking out of the box. Should you like to take advantage of the dynamically-typed nature of JavaScript, it is trivial to change the configuration.
+## 📂 Project Structure
 
-**Why is HMR not preserving my local component state?**
-
-HMR state preservation comes with a number of gotchas! It has been disabled by default in both `svelte-hmr` and `@sveltejs/vite-plugin-svelte` due to its often surprising behavior. You can read the details [here](https://github.com/sveltejs/svelte-hmr/tree/master/packages/svelte-hmr#preservation-of-local-state).
-
-If you have state that's important to retain within a component, consider creating an external store which would not be replaced by HMR.
-
-```js
-// store.js
-// An extremely simple external store
-import { writable } from 'svelte/store'
-export default writable(0)
+```plaintext
+Demit/
+├── assets/
+├── components/
+├── levels/
+├── scripts/
+├── styles/
+├── public/
+├── config/
+├── package.json
+└── README.md
 ```
+
+---
+
+## ⚠️ Disclaimer
+
+This project is **not under any license** and is created solely for academic purposes and game development practice. Further development or usage of this project is strictly for learning and research purposes only.
+
+---
+
+## 📩 Contact
+
+- 📷 **Instagram**: [@demitgame](#)
+- 🐦 **Twitter**: [@demitgame](#)
+- 💻 **GitHub**: [@demit-dev](#)
+
+---
+
+## ⭐ Project Link
+
+Find the repository here: [https://github.com/demit-dev/demit](#)
+
+---
+
+## 🙏 Acknowledgments
+
+- 🎭 **Indonesian Folklore** for inspiring the game’s world and characters.
+- 🎮 **Game development communities** for their support and shared knowledge.
+- 🧑‍🤝‍🧑 **All friends and mentors** who contributed ideas and feedback.
